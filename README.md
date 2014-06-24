@@ -9,4 +9,4 @@
 * See 'wallClockSyntheticClassGPML.m' for use example, and benchmarking against AIS, SMC, BMC methods for non-negative integration.
 
 ### Contact ###
-tgunter@robots.ox.ac.uk
+* tgunter@robots.ox.ac.uk
