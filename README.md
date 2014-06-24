@@ -1,6 +1,6 @@
 # README #
 
-### WSABI_L and WSABI_M for square root Bayesian Quadrature ###
+### WSABI and WSABI for square root Bayesian Quadrature ###
 
 * Minimal MATLAB implementation of WSABI_L and WSABI_M for square root Bayesian Quadrature 
 
