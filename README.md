@@ -1,6 +1,6 @@
 # README #
 
-### Warped Sequential Active Bayesian Integration (WSABI) for square root Bayesian Quadrature ###
+## Warped Sequential Active Bayesian Integration (WSABI) for square root Bayesian Quadrature ##
 
 * Minimal MATLAB implementation of WSABI_L and WSABI_M for square root Bayesian Quadrature 
 
